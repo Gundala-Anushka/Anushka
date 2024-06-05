@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gundala-Anushka
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning html,css
-- 💞️ I know python language
+- 🌱 I’m currently learning 
+- 💞️ I know python 
 - 📫 How to reach me:- Don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am 17
